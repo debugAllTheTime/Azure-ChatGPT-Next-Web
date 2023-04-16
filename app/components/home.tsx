@@ -617,8 +617,8 @@ export function Home() {
           <div className={styles["sidebar-title"]}>ChatGPT Next</div>
           <div className={styles["sidebar-sub-title"]}>
             {aadSession.user.email} [
-            <a href="#" onClick={() => signOut()}>
-              Sign out
+            <a href="#" className="link" onClick={() => signOut()}>
+              {Locale.Home.SignOut}
             </a>
             ]
           </div>

@@ -43,6 +43,7 @@ const tw: LocaleType = {
   Home: {
     NewChat: "新的對話",
     DeleteChat: "確定要刪除選取的對話嗎？",
+    SignOut: "登出",
   },
   Settings: {
     Title: "設定",

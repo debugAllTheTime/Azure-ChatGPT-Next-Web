@@ -42,6 +42,7 @@ const cn = {
   Home: {
     NewChat: "新的聊天",
     DeleteChat: "确认删除选中的对话？",
+    SignOut: "退出登录",
   },
   Settings: {
     Title: "设置",
